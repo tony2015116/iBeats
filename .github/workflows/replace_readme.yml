@@ -12,7 +12,7 @@ on:
 
 env:
   # change env here
-  GITHUB_NAME: tony2015116
+  GITHUB_NAME: TONY2015116
   GITHUB_EMAIL: tony2015116@163.com
 
 jobs:
