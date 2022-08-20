@@ -12,8 +12,8 @@ on:
 
 env:
   # change env here
-  GITHUB_NAME: yihong0618
-  GITHUB_EMAIL: zouzou0208@gmail.com
+  GITHUB_NAME: tony2015116
+  GITHUB_EMAIL: tony2015116@163.com
 
 jobs:
   sync:
